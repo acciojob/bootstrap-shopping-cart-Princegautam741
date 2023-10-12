@@ -1,1 +1,29 @@
-/*  your css code here. If applicable */
+/* Your CSS code for custom styles */
+
+/* Optional: Add custom styles for product and summary */
+.product {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.product img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.product h4 {
+    margin-top: 10px;
+}
+
+.summary {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.summary button {
+    margin-top: 10px;
+}
